@@ -1,0 +1,22 @@
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.AssemblyReference.cache
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.Properties.Resources.resources
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.GenerateResource.cache
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.exe
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.pdb
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.exe.config
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.exe
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.pdb
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.Form1.resources
+C:\Users\Francisco\Desktop\SIMULADOR_K8055\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.CopyComplete
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.exe.config
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.exe
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\bin\Debug\K8055_TESTE.pdb
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.AssemblyReference.cache
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.Form1.resources
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.Properties.Resources.resources
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.GenerateResource.cache
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.CoreCompileInputs.cache
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\TP2_G04.csproj.CopyComplete
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.exe
+C:\Users\Marco e Miguel\Desktop\IHS\TP2\K8055_TESTE\K8055_TESTE\obj\Debug\K8055_TESTE.pdb

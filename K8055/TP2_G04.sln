@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2_G04", "K8055_TESTE\TP2_G04.csproj", "{099BD9E6-8E5F-46BE-A5C3-F4DDB2059ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099BD9E6-8E5F-46BE-A5C3-F4DDB2059ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099BD9E6-8E5F-46BE-A5C3-F4DDB2059ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099BD9E6-8E5F-46BE-A5C3-F4DDB2059ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099BD9E6-8E5F-46BE-A5C3-F4DDB2059ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB3EB3A-D008-48A8-A90E-A46D685AD8BF}
+	EndGlobalSection
+EndGlobal
