@@ -41,7 +41,6 @@ To represent the output of a car's lighting control, the output channels were sp
 In order to represent the various levers corresponding to each light, as well as the choice of different lighting scenarios, the following interface was created:
 <p align="center">
 <img src="https://github.com/Francisco-Guillen/Car-light-simulator/assets/83434031/4daf44c9-58dd-4652-9001-c77f71c17449">
->
 <br>
   Figure 3: Interface
 </p>
