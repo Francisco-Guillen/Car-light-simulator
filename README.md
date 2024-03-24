@@ -32,7 +32,6 @@ To represent the output of a car's lighting control, the output channels were sp
 
 <p align="center">
 <img src="https://github.com/Francisco-Guillen/Car-light-simulator/assets/83434031/0bf7e264-2257-49ca-8a84-c0ddf1f80165">
-">
   <br>
   Figure 2: Output
 </p>
